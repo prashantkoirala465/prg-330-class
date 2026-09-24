@@ -1,0 +1,18 @@
+
+==================================================
+
+              RETAIL SALES ANALYSIS
+
+==================================================
+
+Total Transactions       : 500
+Total Sales              : NPR 1,458,116.00
+Average Sales            : NPR 2,916.23
+Male Customers           : 259
+Female Customers         : 241
+Most Popular Category    : Groceries
+Category Transactions    : 113
+
+There are more male customers.
+
+==================================================

@@ -1,0 +1,501 @@
+Transaction_ID,Date,City,Customer_Gender,Customer_Age,Product_Category,Product_Name,Quantity,Unit_Price_NPR,Payment_Method,Sales_NPR,Customer_Type
+NP00001,2025-03-13,Lalitpur,Female,52,Home & Kitchen,Electric Kettle,2,2200,Cash,4400.0,Returning
+NP00002,2025-10-15,Pokhara,Female,52,Electronics,Smart Watch,1,7500,eSewa,7500.0,Returning
+NP00003,2025-08-05,Biratnagar,Male,31,Clothing,Kurta Set,2,3200,Bank Transfer,6400.0,New
+NP00004,2025-05-16,Kathmandu,Female,52,Electronics,Wireless Earbuds,1,2500,Cash,2500.0,Returning
+NP00005,2025-07-05,Hetauda,Male,22,Electronics,Bluetooth Speaker,2,3200,Cash,6400.0,New
+NP00006,2025-07-14,Bharatpur,Male,41,Clothing,Kurta Set,2,3200,Cash,6080.0,New
+NP00007,2025-05-06,Bhaktapur,Male,35,Home & Kitchen,Electric Kettle,1,2200,Bank Transfer,2200.0,Returning
+NP00008,2025-04-28,Kathmandu,Female,43,Beauty & Personal Care,Sunscreen,2,1100,Cash,2090.0,New
+NP00009,2025-11-26,Butwal,Male,26,Books & Stationery,Academic Planner,1,650,Cash,650.0,Returning
+NP00010,2025-07-05,Pokhara,Female,26,Clothing,Jacket,1,5500,eSewa,5500.0,New
+NP00011,2025-12-15,Birgunj,Female,42,Electronics,Wireless Earbuds,1,2500,eSewa,2500.0,Returning
+NP00012,2025-02-28,Dharan,Female,59,Beauty & Personal Care,Body Lotion,2,850,eSewa,1700.0,New
+NP00013,2025-05-15,Dharan,Female,50,Electronics,Wireless Earbuds,3,2500,Bank Transfer,7125.0,Returning
+NP00014,2025-03-24,Dharan,Female,51,Clothing,Jacket,1,5500,Bank Transfer,5500.0,Returning
+NP00015,2025-06-07,Pokhara,Male,54,Groceries,Basmati Rice 5kg,4,850,Bank Transfer,3230.0,New
+NP00016,2025-03-06,Bhaktapur,Female,53,Groceries,Basmati Rice 5kg,5,850,Cash,4250.0,Returning
+NP00017,2025-12-20,Pokhara,Female,43,Beauty & Personal Care,Shampoo,3,750,Bank Transfer,2137.5,Returning
+NP00018,2025-02-02,Biratnagar,Male,53,Groceries,Wheat Flour 5kg,2,480,Cash,960.0,New
+NP00019,2025-06-19,Lalitpur,Male,35,Electronics,Wireless Earbuds,1,2500,Khalti,2250.0,New
+NP00020,2025-08-31,Birgunj,Male,24,Electronics,USB-C Charger,1,1400,Khalti,1400.0,New
+NP00021,2025-02-20,Kathmandu,Male,39,Groceries,Basmati Rice 5kg,3,850,Debit Card,2295.0,New
+NP00022,2025-05-23,Butwal,Male,22,Clothing,Jacket,1,5500,eSewa,5500.0,Returning
+NP00023,2025-01-08,Lalitpur,Female,33,Beauty & Personal Care,Face Serum,2,1800,Cash,3600.0,Returning
+NP00024,2025-01-02,Birgunj,Male,47,Clothing,Cotton T-Shirt,3,1200,eSewa,3600.0,Returning
+NP00025,2025-04-08,Bharatpur,Male,21,Home & Kitchen,Storage Container Set,2,1600,Khalti,3200.0,Returning
+NP00026,2025-09-29,Bhaktapur,Male,50,Home & Kitchen,Electric Kettle,1,2200,Cash,2200.0,New
+NP00027,2025-10-19,Pokhara,Female,20,Beauty & Personal Care,Shampoo,1,750,Khalti,675.0,Returning
+NP00028,2025-12-09,Biratnagar,Male,43,Beauty & Personal Care,Body Lotion,1,850,Cash,850.0,Returning
+NP00029,2025-10-16,Lalitpur,Male,31,Groceries,Basmati Rice 5kg,1,850,eSewa,850.0,New
+NP00030,2025-03-22,Butwal,Female,37,Groceries,Basmati Rice 5kg,4,850,Khalti,3400.0,Returning
+NP00031,2025-12-06,Lalitpur,Female,26,Home & Kitchen,Electric Kettle,2,2200,Cash,4400.0,Returning
+NP00032,2025-06-25,Pokhara,Female,34,Home & Kitchen,Rice Cooker,1,3800,eSewa,3800.0,New
+NP00033,2025-05-22,Kathmandu,Male,26,Books & Stationery,Notebook Set,1,450,Khalti,450.0,New
+NP00034,2025-02-27,Lalitpur,Female,27,Home & Kitchen,Storage Container Set,2,1600,Khalti,3200.0,Returning
+NP00035,2025-07-06,Kathmandu,Female,31,Beauty & Personal Care,Shampoo,1,750,Khalti,750.0,Returning
+NP00036,2025-11-14,Bhaktapur,Female,33,Groceries,Wheat Flour 5kg,4,480,Credit Card,1920.0,Returning
+NP00037,2025-06-20,Birgunj,Female,33,Sports & Fitness,Dumbbell Set,1,4200,Cash,3990.0,Returning
+NP00038,2025-08-24,Biratnagar,Male,32,Electronics,Wireless Earbuds,2,2500,Cash,5000.0,Returning
+NP00039,2025-05-23,Biratnagar,Female,43,Groceries,Tea 500g,4,420,Khalti,1512.0,Returning
+NP00040,2025-04-02,Hetauda,Female,34,Groceries,Basmati Rice 5kg,1,850,Cash,765.0,Returning
+NP00041,2025-03-01,Birgunj,Female,30,Groceries,Tea 500g,2,420,Cash,756.0,Returning
+NP00042,2025-12-10,Pokhara,Male,22,Electronics,USB-C Charger,2,1400,Bank Transfer,2520.0,Returning
+NP00043,2025-06-08,Birgunj,Male,36,Beauty & Personal Care,Face Serum,2,1800,Khalti,3600.0,New
+NP00044,2025-11-12,Hetauda,Male,53,Home & Kitchen,Water Bottle,2,700,Debit Card,1260.0,New
+NP00045,2025-08-15,Butwal,Female,50,Clothing,Jacket,1,5500,eSewa,5500.0,Returning
+NP00046,2025-12-06,Hetauda,Male,33,Sports & Fitness,Yoga Mat,2,1800,Khalti,3600.0,New
+NP00047,2025-11-09,Lalitpur,Male,58,Clothing,Kurta Set,1,3200,Khalti,2880.0,Returning
+NP00048,2025-01-03,Lalitpur,Female,32,Groceries,Lentils 1kg,1,180,Cash,180.0,Returning
+NP00049,2025-03-04,Butwal,Male,47,Beauty & Personal Care,Face Serum,1,1800,Khalti,1620.0,Returning
+NP00050,2025-09-16,Birgunj,Female,53,Beauty & Personal Care,Moisturizer,1,950,eSewa,902.5,New
+NP00051,2025-11-23,Bharatpur,Female,51,Sports & Fitness,Dumbbell Set,1,4200,eSewa,4200.0,New
+NP00052,2025-10-04,Lalitpur,Male,32,Groceries,Tea 500g,1,420,eSewa,420.0,New
+NP00053,2025-08-01,Kathmandu,Male,44,Clothing,Cotton T-Shirt,1,1200,eSewa,1200.0,Returning
+NP00054,2025-07-14,Butwal,Male,40,Books & Stationery,Notebook Set,4,450,eSewa,1710.0,Returning
+NP00055,2025-11-05,Pokhara,Male,35,Books & Stationery,Art Supplies Set,2,1200,eSewa,2280.0,New
+NP00056,2025-03-07,Hetauda,Female,43,Groceries,Lentils 1kg,3,180,Khalti,513.0,Returning
+NP00057,2025-01-26,Bharatpur,Male,31,Electronics,Power Bank,1,1800,eSewa,1800.0,New
+NP00058,2025-05-10,Lalitpur,Male,52,Books & Stationery,Academic Planner,3,650,Cash,1852.5,Returning
+NP00059,2025-01-16,Pokhara,Male,19,Clothing,Kurta Set,2,3200,Khalti,6400.0,New
+NP00060,2025-12-25,Bharatpur,Female,28,Groceries,Basmati Rice 5kg,2,850,Khalti,1700.0,Returning
+NP00061,2025-01-14,Bharatpur,Female,42,Home & Kitchen,Rice Cooker,3,3800,eSewa,11400.0,Returning
+NP00062,2025-12-17,Hetauda,Female,54,Electronics,Smart Watch,1,7500,Debit Card,7125.0,New
+NP00063,2025-01-07,Birgunj,Female,24,Groceries,Tea 500g,1,420,eSewa,420.0,New
+NP00064,2025-09-25,Bharatpur,Female,52,Books & Stationery,Art Supplies Set,3,1200,Debit Card,3600.0,Returning
+NP00065,2025-02-14,Bharatpur,Female,33,Sports & Fitness,Sports Bag,1,2400,Debit Card,2280.0,Returning
+NP00066,2025-04-04,Butwal,Male,34,Home & Kitchen,Non-Stick Pan,1,1800,eSewa,1710.0,Returning
+NP00067,2025-04-08,Lalitpur,Male,44,Home & Kitchen,Non-Stick Pan,1,1800,eSewa,1800.0,Returning
+NP00068,2025-05-31,Pokhara,Male,33,Home & Kitchen,Water Bottle,1,700,eSewa,700.0,Returning
+NP00069,2025-10-09,Biratnagar,Male,47,Groceries,Wheat Flour 5kg,1,480,eSewa,432.0,New
+NP00070,2025-12-20,Bhaktapur,Male,48,Electronics,Smart Watch,1,7500,eSewa,7125.0,Returning
+NP00071,2025-04-10,Bharatpur,Male,29,Home & Kitchen,Storage Container Set,1,1600,eSewa,1600.0,Returning
+NP00072,2025-12-24,Bhaktapur,Female,49,Electronics,Wireless Earbuds,3,2500,Cash,7500.0,New
+NP00073,2025-01-27,Bharatpur,Female,48,Clothing,Cotton T-Shirt,1,1200,Cash,1200.0,New
+NP00074,2025-03-18,Hetauda,Female,23,Groceries,Wheat Flour 5kg,2,480,Bank Transfer,960.0,New
+NP00075,2025-09-25,Birgunj,Male,46,Home & Kitchen,Storage Container Set,1,1600,eSewa,1600.0,Returning
+NP00076,2025-02-20,Pokhara,Female,34,Groceries,Wheat Flour 5kg,2,480,Khalti,960.0,New
+NP00077,2025-12-19,Hetauda,Male,20,Clothing,Kurta Set,1,3200,Cash,3200.0,Returning
+NP00078,2025-05-16,Hetauda,Female,30,Home & Kitchen,Water Bottle,1,700,eSewa,700.0,Returning
+NP00079,2025-03-26,Bharatpur,Female,54,Home & Kitchen,Non-Stick Pan,2,1800,Bank Transfer,3600.0,Returning
+NP00080,2025-09-14,Dharan,Male,23,Groceries,Tea 500g,3,420,Khalti,1134.0,Returning
+NP00081,2025-12-12,Hetauda,Female,19,Home & Kitchen,Storage Container Set,1,1600,Bank Transfer,1600.0,Returning
+NP00082,2025-09-23,Butwal,Female,29,Clothing,Kurta Set,2,3200,Bank Transfer,6400.0,Returning
+NP00083,2025-06-14,Lalitpur,Female,39,Sports & Fitness,Running Shoes,1,5500,eSewa,5500.0,Returning
+NP00084,2025-08-21,Lalitpur,Male,38,Home & Kitchen,Water Bottle,2,700,Cash,1400.0,Returning
+NP00085,2025-07-31,Kathmandu,Male,41,Sports & Fitness,Running Shoes,2,5500,Khalti,11000.0,Returning
+NP00086,2025-05-28,Butwal,Female,49,Groceries,Basmati Rice 5kg,1,850,Cash,850.0,Returning
+NP00087,2025-01-08,Dharan,Male,32,Beauty & Personal Care,Shampoo,2,750,Bank Transfer,1500.0,Returning
+NP00088,2025-05-30,Dharan,Female,44,Groceries,Basmati Rice 5kg,2,850,Debit Card,1700.0,Returning
+NP00089,2025-11-03,Dharan,Female,26,Clothing,Jacket,1,5500,Credit Card,5500.0,New
+NP00090,2025-05-17,Kathmandu,Male,37,Sports & Fitness,Dumbbell Set,1,4200,Debit Card,3990.0,Returning
+NP00091,2025-06-20,Dharan,Female,42,Home & Kitchen,Rice Cooker,1,3800,eSewa,3800.0,New
+NP00092,2025-07-30,Kathmandu,Male,48,Clothing,Hoodie,1,2800,Debit Card,2800.0,Returning
+NP00093,2025-09-15,Hetauda,Male,24,Groceries,Cooking Oil 2L,2,650,Credit Card,1300.0,Returning
+NP00094,2025-12-02,Bhaktapur,Male,34,Beauty & Personal Care,Moisturizer,1,950,eSewa,950.0,Returning
+NP00095,2025-07-14,Biratnagar,Female,49,Home & Kitchen,Non-Stick Pan,2,1800,Credit Card,3420.0,New
+NP00096,2025-08-11,Lalitpur,Female,24,Electronics,Bluetooth Speaker,3,3200,eSewa,9120.0,Returning
+NP00097,2025-07-03,Biratnagar,Male,33,Books & Stationery,Notebook Set,1,450,Khalti,450.0,Returning
+NP00098,2025-07-15,Hetauda,Female,49,Sports & Fitness,Yoga Mat,1,1800,Bank Transfer,1800.0,New
+NP00099,2025-08-27,Bharatpur,Female,28,Groceries,Tea 500g,2,420,Cash,840.0,Returning
+NP00100,2025-05-09,Butwal,Female,30,Books & Stationery,Academic Planner,2,650,Bank Transfer,1300.0,Returning
+NP00101,2025-12-25,Bharatpur,Male,60,Electronics,Power Bank,1,1800,eSewa,1800.0,New
+NP00102,2025-05-27,Pokhara,Female,40,Sports & Fitness,Running Shoes,3,5500,Cash,15675.0,New
+NP00103,2025-11-27,Kathmandu,Male,46,Clothing,Hoodie,1,2800,Cash,2520.0,New
+NP00104,2025-04-13,Bhaktapur,Female,41,Electronics,Bluetooth Speaker,1,3200,Khalti,3200.0,Returning
+NP00105,2025-06-01,Biratnagar,Female,47,Sports & Fitness,Football,3,1600,Bank Transfer,4320.0,New
+NP00106,2025-07-07,Lalitpur,Female,18,Books & Stationery,Art Supplies Set,5,1200,Cash,5700.0,New
+NP00107,2025-07-10,Lalitpur,Female,48,Groceries,Tea 500g,2,420,Cash,798.0,Returning
+NP00108,2025-08-26,Bharatpur,Female,25,Beauty & Personal Care,Body Lotion,1,850,Cash,850.0,Returning
+NP00109,2025-10-03,Bhaktapur,Male,41,Clothing,Cotton T-Shirt,1,1200,Khalti,1200.0,Returning
+NP00110,2025-08-01,Lalitpur,Female,57,Books & Stationery,Art Supplies Set,2,1200,eSewa,2280.0,Returning
+NP00111,2025-05-01,Biratnagar,Male,41,Electronics,Bluetooth Speaker,1,3200,Khalti,3200.0,Returning
+NP00112,2025-08-21,Lalitpur,Female,59,Groceries,Lentils 1kg,1,180,Khalti,162.0,Returning
+NP00113,2025-10-17,Pokhara,Male,53,Electronics,Bluetooth Speaker,1,3200,Cash,3200.0,New
+NP00114,2025-11-02,Kathmandu,Male,27,Sports & Fitness,Football,2,1600,Bank Transfer,3040.0,Returning
+NP00115,2025-01-08,Biratnagar,Female,33,Sports & Fitness,Running Shoes,2,5500,Khalti,11000.0,New
+NP00116,2025-02-02,Butwal,Male,41,Clothing,Hoodie,2,2800,eSewa,5600.0,New
+NP00117,2025-12-04,Dharan,Male,59,Groceries,Wheat Flour 5kg,1,480,Bank Transfer,456.0,New
+NP00118,2025-12-31,Butwal,Male,23,Groceries,Lentils 1kg,2,180,eSewa,360.0,New
+NP00119,2025-06-16,Birgunj,Female,51,Electronics,USB-C Charger,1,1400,eSewa,1400.0,Returning
+NP00120,2025-10-10,Pokhara,Male,32,Groceries,Basmati Rice 5kg,4,850,eSewa,3400.0,Returning
+NP00121,2025-05-11,Biratnagar,Female,48,Groceries,Basmati Rice 5kg,1,850,Cash,850.0,Returning
+NP00122,2025-03-08,Dharan,Male,53,Electronics,Wireless Earbuds,2,2500,Khalti,5000.0,Returning
+NP00123,2025-05-28,Hetauda,Male,24,Groceries,Lentils 1kg,4,180,Khalti,684.0,New
+NP00124,2025-10-12,Biratnagar,Male,35,Home & Kitchen,Rice Cooker,2,3800,Khalti,7600.0,Returning
+NP00125,2025-01-14,Hetauda,Female,35,Sports & Fitness,Sports Bag,1,2400,Cash,2400.0,New
+NP00126,2025-03-15,Hetauda,Female,22,Home & Kitchen,Non-Stick Pan,1,1800,Cash,1800.0,Returning
+NP00127,2025-06-24,Bhaktapur,Male,38,Electronics,USB-C Charger,1,1400,Debit Card,1400.0,Returning
+NP00128,2025-01-26,Lalitpur,Male,60,Electronics,Wireless Earbuds,1,2500,eSewa,2375.0,Returning
+NP00129,2025-08-09,Lalitpur,Male,55,Groceries,Cooking Oil 2L,3,650,eSewa,1950.0,Returning
+NP00130,2025-04-15,Bharatpur,Female,26,Electronics,Power Bank,3,1800,Debit Card,5400.0,New
+NP00131,2025-07-14,Dharan,Female,50,Electronics,Power Bank,2,1800,Khalti,3600.0,Returning
+NP00132,2025-01-10,Butwal,Female,38,Groceries,Lentils 1kg,4,180,Khalti,720.0,Returning
+NP00133,2025-06-16,Bhaktapur,Female,57,Home & Kitchen,Water Bottle,1,700,eSewa,700.0,Returning
+NP00134,2025-10-29,Birgunj,Male,43,Groceries,Lentils 1kg,3,180,Credit Card,540.0,Returning
+NP00135,2025-09-29,Dharan,Male,40,Clothing,Hoodie,1,2800,eSewa,2800.0,Returning
+NP00136,2025-04-12,Bhaktapur,Female,59,Home & Kitchen,Rice Cooker,1,3800,Cash,3800.0,Returning
+NP00137,2025-08-18,Hetauda,Female,57,Beauty & Personal Care,Moisturizer,2,950,eSewa,1805.0,Returning
+NP00138,2025-06-05,Bharatpur,Female,40,Groceries,Lentils 1kg,1,180,eSewa,180.0,New
+NP00139,2025-11-27,Lalitpur,Female,50,Groceries,Basmati Rice 5kg,2,850,eSewa,1700.0,Returning
+NP00140,2025-11-30,Pokhara,Male,48,Books & Stationery,Notebook Set,2,450,eSewa,855.0,Returning
+NP00141,2025-11-27,Bhaktapur,Male,46,Groceries,Tea 500g,5,420,Bank Transfer,2100.0,Returning
+NP00142,2025-07-29,Biratnagar,Female,21,Beauty & Personal Care,Sunscreen,1,1100,Debit Card,1100.0,Returning
+NP00143,2025-05-10,Hetauda,Female,39,Electronics,Wireless Earbuds,1,2500,Cash,2500.0,Returning
+NP00144,2025-07-20,Bhaktapur,Female,23,Books & Stationery,Academic Planner,5,650,eSewa,3250.0,New
+NP00145,2025-12-17,Dharan,Male,60,Sports & Fitness,Yoga Mat,2,1800,eSewa,3420.0,New
+NP00146,2025-09-06,Pokhara,Male,26,Groceries,Cooking Oil 2L,5,650,Cash,3250.0,New
+NP00147,2025-09-27,Kathmandu,Female,57,Sports & Fitness,Sports Bag,2,2400,Cash,4560.0,New
+NP00148,2025-08-13,Kathmandu,Male,33,Clothing,Jacket,2,5500,Bank Transfer,11000.0,Returning
+NP00149,2025-08-29,Pokhara,Male,54,Home & Kitchen,Water Bottle,1,700,Bank Transfer,700.0,Returning
+NP00150,2025-03-24,Pokhara,Female,26,Clothing,Cotton T-Shirt,1,1200,Credit Card,1200.0,New
+NP00151,2025-09-22,Lalitpur,Male,28,Groceries,Tea 500g,2,420,eSewa,840.0,Returning
+NP00152,2025-08-19,Biratnagar,Female,44,Electronics,Power Bank,1,1800,Cash,1620.0,Returning
+NP00153,2025-02-20,Biratnagar,Female,26,Clothing,Kurta Set,1,3200,Cash,3200.0,Returning
+NP00154,2025-11-12,Kathmandu,Female,19,Groceries,Cooking Oil 2L,3,650,Cash,1950.0,Returning
+NP00155,2025-05-28,Pokhara,Male,21,Beauty & Personal Care,Body Lotion,1,850,Cash,850.0,Returning
+NP00156,2025-11-02,Dharan,Male,50,Beauty & Personal Care,Face Serum,1,1800,Khalti,1620.0,Returning
+NP00157,2025-08-02,Bhaktapur,Female,23,Clothing,Kurta Set,1,3200,Khalti,3200.0,New
+NP00158,2025-10-11,Kathmandu,Male,48,Books & Stationery,Reference Book,2,900,Cash,1620.0,Returning
+NP00159,2025-05-04,Lalitpur,Female,39,Groceries,Basmati Rice 5kg,2,850,Cash,1700.0,New
+NP00160,2025-12-23,Butwal,Female,26,Groceries,Cooking Oil 2L,3,650,Cash,1950.0,Returning
+NP00161,2025-01-22,Biratnagar,Female,50,Groceries,Tea 500g,1,420,eSewa,399.0,Returning
+NP00162,2025-07-02,Kathmandu,Female,39,Groceries,Basmati Rice 5kg,3,850,eSewa,2550.0,Returning
+NP00163,2025-07-17,Biratnagar,Female,49,Groceries,Lentils 1kg,3,180,Khalti,513.0,New
+NP00164,2025-02-10,Birgunj,Female,29,Sports & Fitness,Football,2,1600,Khalti,3040.0,New
+NP00165,2025-08-07,Bhaktapur,Female,40,Electronics,Bluetooth Speaker,1,3200,eSewa,3200.0,Returning
+NP00166,2025-01-30,Lalitpur,Female,43,Books & Stationery,Reference Book,5,900,eSewa,4500.0,Returning
+NP00167,2025-08-13,Kathmandu,Male,33,Home & Kitchen,Electric Kettle,1,2200,Debit Card,2200.0,New
+NP00168,2025-08-19,Biratnagar,Male,22,Groceries,Wheat Flour 5kg,1,480,Khalti,480.0,Returning
+NP00169,2025-04-06,Butwal,Male,53,Groceries,Tea 500g,1,420,Cash,420.0,Returning
+NP00170,2025-09-09,Pokhara,Male,22,Home & Kitchen,Rice Cooker,3,3800,eSewa,11400.0,Returning
+NP00171,2025-06-13,Biratnagar,Female,53,Groceries,Basmati Rice 5kg,3,850,Khalti,2295.0,Returning
+NP00172,2025-03-04,Pokhara,Female,33,Sports & Fitness,Yoga Mat,2,1800,Debit Card,3600.0,New
+NP00173,2025-03-08,Hetauda,Female,22,Beauty & Personal Care,Sunscreen,1,1100,eSewa,990.0,Returning
+NP00174,2025-10-22,Lalitpur,Male,38,Home & Kitchen,Storage Container Set,1,1600,Khalti,1600.0,Returning
+NP00175,2025-10-10,Hetauda,Male,26,Home & Kitchen,Non-Stick Pan,1,1800,eSewa,1710.0,Returning
+NP00176,2025-03-24,Biratnagar,Female,32,Electronics,Wireless Earbuds,1,2500,eSewa,2500.0,Returning
+NP00177,2025-10-10,Bharatpur,Male,37,Books & Stationery,Notebook Set,1,450,Khalti,450.0,New
+NP00178,2025-12-04,Hetauda,Female,56,Home & Kitchen,Storage Container Set,3,1600,eSewa,4800.0,Returning
+NP00179,2025-10-23,Bharatpur,Female,54,Electronics,Wireless Earbuds,1,2500,eSewa,2250.0,Returning
+NP00180,2025-09-05,Pokhara,Female,43,Groceries,Wheat Flour 5kg,1,480,eSewa,432.0,New
+NP00181,2025-06-24,Hetauda,Male,38,Electronics,Power Bank,1,1800,Debit Card,1800.0,Returning
+NP00182,2025-02-24,Biratnagar,Male,25,Books & Stationery,Ball Pen Pack,3,180,Cash,540.0,New
+NP00183,2025-08-03,Pokhara,Female,28,Electronics,Bluetooth Speaker,3,3200,Debit Card,9120.0,Returning
+NP00184,2025-09-21,Butwal,Male,37,Home & Kitchen,Rice Cooker,2,3800,eSewa,7600.0,New
+NP00185,2025-06-30,Kathmandu,Male,49,Groceries,Lentils 1kg,5,180,Khalti,900.0,Returning
+NP00186,2025-08-09,Bhaktapur,Female,41,Home & Kitchen,Non-Stick Pan,1,1800,Debit Card,1710.0,New
+NP00187,2025-05-28,Lalitpur,Male,46,Groceries,Wheat Flour 5kg,2,480,Debit Card,960.0,New
+NP00188,2025-07-21,Biratnagar,Female,39,Books & Stationery,Reference Book,1,900,Khalti,810.0,New
+NP00189,2025-01-24,Kathmandu,Male,39,Electronics,USB-C Charger,1,1400,Debit Card,1400.0,Returning
+NP00190,2025-06-13,Bhaktapur,Male,57,Electronics,USB-C Charger,1,1400,Debit Card,1260.0,New
+NP00191,2025-06-03,Butwal,Female,41,Groceries,Wheat Flour 5kg,2,480,eSewa,912.0,New
+NP00192,2025-12-19,Kathmandu,Female,34,Groceries,Tea 500g,3,420,Bank Transfer,1197.0,Returning
+NP00193,2025-09-03,Bhaktapur,Male,57,Sports & Fitness,Sports Bag,1,2400,Debit Card,2400.0,Returning
+NP00194,2025-02-26,Pokhara,Male,38,Sports & Fitness,Yoga Mat,1,1800,eSewa,1620.0,Returning
+NP00195,2025-02-01,Bhaktapur,Male,53,Clothing,Jacket,2,5500,eSewa,9900.0,Returning
+NP00196,2025-09-30,Biratnagar,Female,59,Beauty & Personal Care,Sunscreen,3,1100,Debit Card,3300.0,New
+NP00197,2025-06-02,Bharatpur,Female,49,Groceries,Cooking Oil 2L,1,650,eSewa,650.0,New
+NP00198,2025-10-06,Birgunj,Female,43,Books & Stationery,Academic Planner,1,650,Debit Card,650.0,Returning
+NP00199,2025-02-10,Biratnagar,Female,59,Sports & Fitness,Football,1,1600,Cash,1440.0,Returning
+NP00200,2025-05-20,Bhaktapur,Male,55,Clothing,Jacket,1,5500,Cash,5500.0,New
+NP00201,2025-07-31,Biratnagar,Female,24,Books & Stationery,Ball Pen Pack,2,180,Khalti,360.0,New
+NP00202,2025-09-01,Butwal,Female,36,Books & Stationery,Ball Pen Pack,2,180,eSewa,324.0,Returning
+NP00203,2025-01-20,Bhaktapur,Male,29,Books & Stationery,Notebook Set,3,450,Bank Transfer,1350.0,New
+NP00204,2025-05-29,Kathmandu,Male,54,Sports & Fitness,Dumbbell Set,1,4200,Khalti,3990.0,Returning
+NP00205,2025-09-10,Bhaktapur,Female,47,Groceries,Lentils 1kg,5,180,eSewa,900.0,Returning
+NP00206,2025-01-08,Biratnagar,Female,54,Groceries,Lentils 1kg,2,180,Khalti,342.0,New
+NP00207,2025-02-14,Birgunj,Female,29,Beauty & Personal Care,Moisturizer,2,950,Bank Transfer,1900.0,Returning
+NP00208,2025-05-17,Biratnagar,Male,54,Books & Stationery,Notebook Set,1,450,Cash,450.0,Returning
+NP00209,2025-03-23,Birgunj,Female,37,Home & Kitchen,Electric Kettle,2,2200,Khalti,4400.0,Returning
+NP00210,2025-03-10,Butwal,Male,56,Books & Stationery,Academic Planner,2,650,eSewa,1300.0,Returning
+NP00211,2025-05-07,Hetauda,Female,23,Books & Stationery,Reference Book,3,900,Khalti,2565.0,Returning
+NP00212,2025-09-16,Pokhara,Female,27,Groceries,Wheat Flour 5kg,1,480,Cash,456.0,Returning
+NP00213,2025-09-19,Butwal,Female,47,Groceries,Cooking Oil 2L,3,650,Cash,1950.0,Returning
+NP00214,2025-01-12,Birgunj,Male,18,Beauty & Personal Care,Body Lotion,1,850,Debit Card,807.5,Returning
+NP00215,2025-01-31,Lalitpur,Female,48,Electronics,Bluetooth Speaker,2,3200,Cash,6400.0,Returning
+NP00216,2025-08-18,Birgunj,Male,60,Home & Kitchen,Water Bottle,1,700,Credit Card,665.0,New
+NP00217,2025-09-28,Bhaktapur,Female,32,Sports & Fitness,Running Shoes,1,5500,Debit Card,5500.0,Returning
+NP00218,2025-09-30,Birgunj,Female,33,Books & Stationery,Art Supplies Set,3,1200,eSewa,3600.0,New
+NP00219,2025-11-11,Kathmandu,Male,22,Clothing,Kurta Set,1,3200,Cash,3200.0,New
+NP00220,2025-08-13,Pokhara,Female,21,Beauty & Personal Care,Face Serum,1,1800,Cash,1800.0,Returning
+NP00221,2025-12-11,Biratnagar,Male,27,Clothing,Jacket,1,5500,Bank Transfer,5500.0,Returning
+NP00222,2025-03-31,Birgunj,Female,21,Groceries,Tea 500g,1,420,Bank Transfer,378.0,Returning
+NP00223,2025-03-18,Bharatpur,Male,52,Home & Kitchen,Storage Container Set,1,1600,eSewa,1600.0,Returning
+NP00224,2025-10-15,Birgunj,Female,53,Clothing,Hoodie,2,2800,Khalti,5040.0,Returning
+NP00225,2025-07-09,Lalitpur,Female,30,Clothing,Jeans,1,3500,Cash,3150.0,New
+NP00226,2025-10-28,Dharan,Male,31,Beauty & Personal Care,Face Serum,2,1800,Credit Card,3600.0,New
+NP00227,2025-03-02,Butwal,Female,56,Books & Stationery,Notebook Set,1,450,Debit Card,450.0,Returning
+NP00228,2025-10-01,Biratnagar,Male,41,Clothing,Jeans,2,3500,eSewa,7000.0,Returning
+NP00229,2025-04-15,Biratnagar,Male,20,Electronics,Power Bank,2,1800,Khalti,3600.0,New
+NP00230,2025-08-02,Bharatpur,Male,39,Electronics,Bluetooth Speaker,1,3200,Cash,3200.0,Returning
+NP00231,2025-05-12,Butwal,Female,59,Clothing,Jacket,2,5500,Debit Card,11000.0,Returning
+NP00232,2025-09-08,Bhaktapur,Female,52,Home & Kitchen,Non-Stick Pan,1,1800,Bank Transfer,1710.0,Returning
+NP00233,2025-01-04,Birgunj,Male,58,Beauty & Personal Care,Face Serum,3,1800,Cash,5400.0,Returning
+NP00234,2025-11-23,Hetauda,Female,60,Electronics,USB-C Charger,1,1400,eSewa,1400.0,New
+NP00235,2025-10-02,Bharatpur,Male,45,Beauty & Personal Care,Face Serum,1,1800,Debit Card,1710.0,Returning
+NP00236,2025-11-14,Dharan,Male,40,Electronics,Wireless Earbuds,1,2500,Cash,2500.0,Returning
+NP00237,2025-12-23,Pokhara,Male,23,Groceries,Lentils 1kg,2,180,Khalti,360.0,Returning
+NP00238,2025-09-01,Kathmandu,Female,28,Home & Kitchen,Electric Kettle,1,2200,Cash,2200.0,Returning
+NP00239,2025-02-18,Dharan,Female,32,Home & Kitchen,Non-Stick Pan,1,1800,Cash,1710.0,Returning
+NP00240,2025-12-17,Bharatpur,Female,54,Books & Stationery,Art Supplies Set,1,1200,Khalti,1080.0,New
+NP00241,2025-12-31,Birgunj,Female,37,Sports & Fitness,Running Shoes,3,5500,Cash,16500.0,New
+NP00242,2025-07-16,Bhaktapur,Female,23,Sports & Fitness,Dumbbell Set,2,4200,eSewa,8400.0,Returning
+NP00243,2025-11-06,Hetauda,Female,43,Electronics,Power Bank,1,1800,Bank Transfer,1800.0,New
+NP00244,2025-07-12,Birgunj,Male,55,Home & Kitchen,Water Bottle,1,700,Khalti,700.0,New
+NP00245,2025-03-20,Birgunj,Female,58,Beauty & Personal Care,Shampoo,2,750,Cash,1500.0,Returning
+NP00246,2025-07-04,Bharatpur,Male,23,Groceries,Basmati Rice 5kg,1,850,Cash,850.0,Returning
+NP00247,2025-10-11,Lalitpur,Female,38,Beauty & Personal Care,Moisturizer,1,950,Credit Card,950.0,New
+NP00248,2025-05-05,Hetauda,Male,42,Groceries,Basmati Rice 5kg,3,850,Cash,2550.0,New
+NP00249,2025-08-04,Bharatpur,Male,22,Clothing,Hoodie,1,2800,eSewa,2800.0,Returning
+NP00250,2025-02-24,Bhaktapur,Male,43,Home & Kitchen,Water Bottle,1,700,eSewa,700.0,Returning
+NP00251,2025-11-30,Hetauda,Male,38,Sports & Fitness,Football,1,1600,Khalti,1600.0,Returning
+NP00252,2025-05-30,Butwal,Female,33,Groceries,Cooking Oil 2L,5,650,eSewa,2925.0,New
+NP00253,2025-10-31,Dharan,Male,53,Sports & Fitness,Football,1,1600,Cash,1600.0,Returning
+NP00254,2025-12-21,Lalitpur,Female,44,Books & Stationery,Ball Pen Pack,2,180,Khalti,360.0,New
+NP00255,2025-07-13,Lalitpur,Male,56,Clothing,Jeans,2,3500,eSewa,6650.0,Returning
+NP00256,2025-07-04,Dharan,Female,23,Groceries,Lentils 1kg,2,180,Cash,342.0,New
+NP00257,2025-11-27,Birgunj,Female,39,Home & Kitchen,Rice Cooker,1,3800,Bank Transfer,3800.0,Returning
+NP00258,2025-10-13,Hetauda,Female,32,Electronics,Bluetooth Speaker,1,3200,eSewa,3040.0,Returning
+NP00259,2025-01-13,Butwal,Male,44,Sports & Fitness,Sports Bag,2,2400,Bank Transfer,4800.0,New
+NP00260,2025-04-16,Dharan,Male,48,Sports & Fitness,Yoga Mat,1,1800,Cash,1800.0,Returning
+NP00261,2025-02-28,Kathmandu,Female,59,Groceries,Basmati Rice 5kg,1,850,Cash,807.5,Returning
+NP00262,2025-06-19,Dharan,Male,47,Books & Stationery,Ball Pen Pack,2,180,Cash,360.0,Returning
+NP00263,2025-04-12,Butwal,Female,42,Clothing,Cotton T-Shirt,1,1200,Cash,1140.0,New
+NP00264,2025-10-02,Bhaktapur,Male,30,Clothing,Kurta Set,1,3200,eSewa,3040.0,New
+NP00265,2025-07-18,Hetauda,Male,25,Sports & Fitness,Sports Bag,3,2400,eSewa,7200.0,Returning
+NP00266,2025-12-11,Bhaktapur,Male,33,Beauty & Personal Care,Sunscreen,3,1100,eSewa,3300.0,New
+NP00267,2025-10-22,Birgunj,Male,49,Home & Kitchen,Storage Container Set,1,1600,Khalti,1600.0,Returning
+NP00268,2025-03-13,Bhaktapur,Male,46,Home & Kitchen,Rice Cooker,1,3800,Khalti,3800.0,Returning
+NP00269,2025-10-15,Dharan,Female,44,Books & Stationery,Art Supplies Set,1,1200,Khalti,1140.0,Returning
+NP00270,2025-04-23,Bharatpur,Male,32,Sports & Fitness,Dumbbell Set,1,4200,Khalti,4200.0,New
+NP00271,2025-02-28,Bharatpur,Female,41,Groceries,Lentils 1kg,2,180,Khalti,360.0,Returning
+NP00272,2025-02-22,Pokhara,Male,20,Home & Kitchen,Water Bottle,1,700,eSewa,630.0,New
+NP00273,2025-05-02,Pokhara,Female,55,Sports & Fitness,Dumbbell Set,2,4200,Khalti,8400.0,Returning
+NP00274,2025-04-16,Pokhara,Female,54,Beauty & Personal Care,Moisturizer,1,950,eSewa,950.0,New
+NP00275,2025-10-21,Bharatpur,Female,50,Beauty & Personal Care,Sunscreen,3,1100,Bank Transfer,3300.0,Returning
+NP00276,2025-12-02,Bhaktapur,Female,26,Electronics,Power Bank,3,1800,Cash,4860.0,Returning
+NP00277,2025-05-18,Birgunj,Male,22,Sports & Fitness,Dumbbell Set,1,4200,Khalti,4200.0,Returning
+NP00278,2025-07-08,Butwal,Female,38,Electronics,USB-C Charger,2,1400,Khalti,2800.0,Returning
+NP00279,2025-12-07,Biratnagar,Female,52,Sports & Fitness,Running Shoes,2,5500,eSewa,11000.0,Returning
+NP00280,2025-06-22,Dharan,Female,54,Sports & Fitness,Dumbbell Set,1,4200,Credit Card,3990.0,Returning
+NP00281,2025-08-24,Kathmandu,Male,28,Books & Stationery,Notebook Set,1,450,eSewa,450.0,New
+NP00282,2025-11-29,Bharatpur,Male,35,Books & Stationery,Ball Pen Pack,5,180,Cash,810.0,New
+NP00283,2025-12-25,Pokhara,Male,23,Electronics,Smart Watch,1,7500,Debit Card,7500.0,New
+NP00284,2025-08-16,Kathmandu,Male,39,Groceries,Cooking Oil 2L,2,650,Debit Card,1300.0,Returning
+NP00285,2025-02-15,Lalitpur,Male,41,Groceries,Cooking Oil 2L,2,650,Credit Card,1300.0,New
+NP00286,2025-02-05,Dharan,Female,57,Sports & Fitness,Yoga Mat,1,1800,Khalti,1800.0,Returning
+NP00287,2025-08-15,Pokhara,Male,24,Home & Kitchen,Rice Cooker,3,3800,Cash,11400.0,New
+NP00288,2025-03-13,Pokhara,Male,23,Home & Kitchen,Non-Stick Pan,3,1800,Cash,5400.0,Returning
+NP00289,2025-12-04,Bharatpur,Male,56,Home & Kitchen,Non-Stick Pan,2,1800,eSewa,3600.0,Returning
+NP00290,2025-05-03,Butwal,Male,33,Clothing,Kurta Set,2,3200,eSewa,6080.0,Returning
+NP00291,2025-03-09,Birgunj,Female,54,Beauty & Personal Care,Face Serum,3,1800,eSewa,4860.0,Returning
+NP00292,2025-01-09,Hetauda,Male,34,Clothing,Cotton T-Shirt,3,1200,Cash,3420.0,Returning
+NP00293,2025-09-14,Birgunj,Male,43,Books & Stationery,Art Supplies Set,2,1200,Cash,2400.0,Returning
+NP00294,2025-04-15,Bhaktapur,Female,43,Beauty & Personal Care,Sunscreen,1,1100,Khalti,1100.0,Returning
+NP00295,2025-05-03,Kathmandu,Male,45,Home & Kitchen,Electric Kettle,1,2200,Cash,2200.0,Returning
+NP00296,2025-12-26,Kathmandu,Male,40,Electronics,Smart Watch,1,7500,Khalti,7125.0,Returning
+NP00297,2025-05-18,Lalitpur,Female,19,Home & Kitchen,Rice Cooker,1,3800,eSewa,3610.0,Returning
+NP00298,2025-02-09,Butwal,Male,41,Beauty & Personal Care,Sunscreen,2,1100,Cash,2200.0,Returning
+NP00299,2025-10-21,Lalitpur,Male,50,Clothing,Hoodie,1,2800,Cash,2800.0,Returning
+NP00300,2025-03-18,Bhaktapur,Female,20,Electronics,Wireless Earbuds,1,2500,Khalti,2500.0,Returning
+NP00301,2025-06-13,Bharatpur,Female,54,Home & Kitchen,Water Bottle,1,700,eSewa,700.0,Returning
+NP00302,2025-01-24,Birgunj,Male,47,Books & Stationery,Ball Pen Pack,1,180,Credit Card,180.0,Returning
+NP00303,2025-04-13,Bharatpur,Female,37,Groceries,Basmati Rice 5kg,2,850,Debit Card,1700.0,New
+NP00304,2025-10-07,Pokhara,Male,44,Groceries,Lentils 1kg,5,180,Cash,855.0,Returning
+NP00305,2025-12-03,Birgunj,Female,37,Home & Kitchen,Electric Kettle,3,2200,Cash,6600.0,Returning
+NP00306,2025-03-14,Bharatpur,Male,32,Clothing,Cotton T-Shirt,3,1200,Credit Card,3240.0,Returning
+NP00307,2025-10-25,Lalitpur,Male,58,Home & Kitchen,Non-Stick Pan,1,1800,Debit Card,1710.0,New
+NP00308,2025-05-30,Bharatpur,Female,43,Beauty & Personal Care,Moisturizer,2,950,Debit Card,1900.0,Returning
+NP00309,2025-03-11,Hetauda,Male,24,Groceries,Tea 500g,1,420,Cash,378.0,Returning
+NP00310,2025-08-20,Bharatpur,Male,25,Groceries,Wheat Flour 5kg,2,480,Cash,912.0,Returning
+NP00311,2025-06-17,Bhaktapur,Male,33,Clothing,Jacket,1,5500,Bank Transfer,5225.0,Returning
+NP00312,2025-01-16,Birgunj,Female,53,Electronics,Bluetooth Speaker,1,3200,Debit Card,2880.0,New
+NP00313,2025-04-24,Bhaktapur,Male,43,Groceries,Cooking Oil 2L,1,650,eSewa,650.0,Returning
+NP00314,2025-02-08,Kathmandu,Female,30,Home & Kitchen,Storage Container Set,1,1600,Bank Transfer,1440.0,Returning
+NP00315,2025-01-26,Bhaktapur,Female,45,Electronics,Bluetooth Speaker,1,3200,Debit Card,2880.0,Returning
+NP00316,2025-04-06,Bharatpur,Male,27,Electronics,Power Bank,1,1800,Cash,1800.0,Returning
+NP00317,2025-09-03,Kathmandu,Male,42,Clothing,Jeans,1,3500,Cash,3325.0,New
+NP00318,2025-10-06,Kathmandu,Female,40,Books & Stationery,Reference Book,1,900,eSewa,810.0,Returning
+NP00319,2025-04-03,Kathmandu,Male,32,Groceries,Wheat Flour 5kg,2,480,Cash,960.0,Returning
+NP00320,2025-04-30,Bhaktapur,Male,60,Clothing,Cotton T-Shirt,1,1200,Cash,1140.0,Returning
+NP00321,2025-10-22,Birgunj,Male,29,Sports & Fitness,Running Shoes,2,5500,Cash,9900.0,Returning
+NP00322,2025-12-25,Biratnagar,Female,54,Sports & Fitness,Football,3,1600,Cash,4800.0,Returning
+NP00323,2025-01-20,Lalitpur,Male,56,Sports & Fitness,Dumbbell Set,1,4200,Cash,4200.0,Returning
+NP00324,2025-04-01,Biratnagar,Male,27,Electronics,USB-C Charger,1,1400,Khalti,1400.0,Returning
+NP00325,2025-07-11,Birgunj,Female,39,Sports & Fitness,Sports Bag,2,2400,eSewa,4320.0,New
+NP00326,2025-11-29,Biratnagar,Male,53,Electronics,Power Bank,2,1800,Khalti,3240.0,Returning
+NP00327,2025-07-13,Bharatpur,Female,36,Sports & Fitness,Yoga Mat,2,1800,Cash,3420.0,Returning
+NP00328,2025-10-18,Kathmandu,Male,38,Books & Stationery,Reference Book,2,900,Bank Transfer,1620.0,Returning
+NP00329,2025-06-19,Lalitpur,Male,38,Clothing,Jacket,1,5500,Cash,5500.0,Returning
+NP00330,2025-05-08,Lalitpur,Male,24,Electronics,Bluetooth Speaker,1,3200,Debit Card,3200.0,New
+NP00331,2025-09-10,Birgunj,Male,42,Groceries,Lentils 1kg,5,180,Cash,855.0,Returning
+NP00332,2025-01-18,Bharatpur,Male,34,Sports & Fitness,Yoga Mat,1,1800,Bank Transfer,1800.0,New
+NP00333,2025-02-17,Biratnagar,Female,57,Clothing,Cotton T-Shirt,1,1200,Credit Card,1200.0,Returning
+NP00334,2025-01-28,Lalitpur,Male,30,Groceries,Cooking Oil 2L,2,650,eSewa,1300.0,Returning
+NP00335,2025-05-02,Lalitpur,Male,54,Books & Stationery,Reference Book,1,900,Khalti,900.0,Returning
+NP00336,2025-12-05,Hetauda,Male,24,Electronics,Wireless Earbuds,1,2500,Cash,2500.0,New
+NP00337,2025-07-23,Butwal,Male,60,Clothing,Kurta Set,1,3200,Cash,3200.0,Returning
+NP00338,2025-08-17,Kathmandu,Male,47,Groceries,Tea 500g,4,420,Cash,1680.0,Returning
+NP00339,2025-02-13,Biratnagar,Female,44,Beauty & Personal Care,Shampoo,2,750,Bank Transfer,1500.0,Returning
+NP00340,2025-10-02,Butwal,Female,33,Beauty & Personal Care,Moisturizer,2,950,eSewa,1900.0,New
+NP00341,2025-10-20,Hetauda,Male,46,Books & Stationery,Notebook Set,2,450,Cash,810.0,Returning
+NP00342,2025-12-16,Birgunj,Male,58,Books & Stationery,Ball Pen Pack,1,180,Cash,180.0,Returning
+NP00343,2025-10-10,Biratnagar,Female,51,Groceries,Basmati Rice 5kg,1,850,eSewa,850.0,Returning
+NP00344,2025-02-27,Birgunj,Male,54,Sports & Fitness,Sports Bag,1,2400,Khalti,2280.0,Returning
+NP00345,2025-05-27,Dharan,Female,44,Books & Stationery,Notebook Set,2,450,Cash,900.0,Returning
+NP00346,2025-03-15,Hetauda,Female,43,Beauty & Personal Care,Moisturizer,1,950,Cash,950.0,Returning
+NP00347,2025-05-18,Biratnagar,Male,37,Groceries,Cooking Oil 2L,1,650,eSewa,650.0,Returning
+NP00348,2025-06-03,Butwal,Female,38,Sports & Fitness,Running Shoes,3,5500,Cash,16500.0,Returning
+NP00349,2025-07-28,Butwal,Female,41,Home & Kitchen,Rice Cooker,1,3800,Debit Card,3420.0,Returning
+NP00350,2025-09-26,Hetauda,Male,30,Electronics,Bluetooth Speaker,2,3200,Credit Card,6400.0,New
+NP00351,2025-12-27,Pokhara,Male,47,Electronics,Wireless Earbuds,1,2500,eSewa,2250.0,Returning
+NP00352,2025-08-17,Bhaktapur,Female,48,Electronics,Wireless Earbuds,1,2500,Khalti,2500.0,New
+NP00353,2025-05-26,Kathmandu,Male,28,Clothing,Jeans,2,3500,Credit Card,7000.0,Returning
+NP00354,2025-05-18,Birgunj,Male,18,Clothing,Hoodie,1,2800,eSewa,2800.0,New
+NP00355,2025-06-06,Bharatpur,Male,42,Clothing,Kurta Set,1,3200,Credit Card,3200.0,Returning
+NP00356,2025-07-23,Hetauda,Male,50,Clothing,Jeans,2,3500,Bank Transfer,6650.0,Returning
+NP00357,2025-06-02,Lalitpur,Male,39,Sports & Fitness,Sports Bag,1,2400,Bank Transfer,2400.0,Returning
+NP00358,2025-11-30,Bharatpur,Male,51,Sports & Fitness,Football,2,1600,Debit Card,2880.0,Returning
+NP00359,2025-03-13,Kathmandu,Female,36,Sports & Fitness,Sports Bag,1,2400,Cash,2400.0,Returning
+NP00360,2025-04-08,Biratnagar,Female,32,Groceries,Basmati Rice 5kg,2,850,Khalti,1530.0,Returning
+NP00361,2025-12-03,Dharan,Male,24,Groceries,Tea 500g,2,420,eSewa,798.0,Returning
+NP00362,2025-12-15,Biratnagar,Female,32,Home & Kitchen,Storage Container Set,2,1600,eSewa,3200.0,Returning
+NP00363,2025-08-26,Lalitpur,Male,58,Clothing,Jeans,1,3500,Khalti,3500.0,Returning
+NP00364,2025-07-15,Dharan,Male,21,Electronics,Smart Watch,1,7500,Credit Card,7125.0,New
+NP00365,2025-08-23,Bhaktapur,Male,29,Books & Stationery,Academic Planner,2,650,Debit Card,1300.0,Returning
+NP00366,2025-08-20,Bharatpur,Male,28,Home & Kitchen,Rice Cooker,1,3800,Khalti,3800.0,New
+NP00367,2025-08-08,Birgunj,Male,48,Sports & Fitness,Running Shoes,1,5500,eSewa,5500.0,New
+NP00368,2025-09-29,Pokhara,Male,18,Clothing,Jeans,3,3500,Khalti,9975.0,New
+NP00369,2025-09-15,Hetauda,Male,22,Home & Kitchen,Non-Stick Pan,1,1800,Debit Card,1800.0,New
+NP00370,2025-12-18,Bhaktapur,Male,49,Clothing,Jacket,1,5500,eSewa,5500.0,New
+NP00371,2025-03-09,Pokhara,Female,55,Books & Stationery,Art Supplies Set,1,1200,eSewa,1200.0,New
+NP00372,2025-10-01,Hetauda,Male,21,Home & Kitchen,Electric Kettle,1,2200,Khalti,2200.0,Returning
+NP00373,2025-10-08,Bharatpur,Male,27,Electronics,Wireless Earbuds,1,2500,Cash,2500.0,Returning
+NP00374,2025-05-19,Hetauda,Female,26,Electronics,Power Bank,2,1800,eSewa,3600.0,Returning
+NP00375,2025-02-24,Butwal,Male,30,Beauty & Personal Care,Body Lotion,1,850,Debit Card,850.0,Returning
+NP00376,2025-01-21,Dharan,Male,31,Books & Stationery,Academic Planner,3,650,Khalti,1950.0,Returning
+NP00377,2025-10-21,Butwal,Male,23,Clothing,Kurta Set,2,3200,Debit Card,5760.0,New
+NP00378,2025-06-01,Bharatpur,Male,24,Home & Kitchen,Non-Stick Pan,1,1800,Debit Card,1800.0,Returning
+NP00379,2025-03-01,Lalitpur,Female,20,Sports & Fitness,Football,2,1600,Cash,3200.0,New
+NP00380,2025-11-15,Bharatpur,Female,23,Home & Kitchen,Non-Stick Pan,1,1800,eSewa,1800.0,New
+NP00381,2025-07-17,Butwal,Female,59,Electronics,Power Bank,3,1800,Credit Card,5400.0,New
+NP00382,2025-02-23,Birgunj,Female,48,Electronics,Wireless Earbuds,3,2500,Debit Card,7125.0,Returning
+NP00383,2025-12-17,Bhaktapur,Male,49,Clothing,Cotton T-Shirt,2,1200,Cash,2400.0,Returning
+NP00384,2025-12-14,Dharan,Female,54,Electronics,Bluetooth Speaker,2,3200,Debit Card,6400.0,New
+NP00385,2025-11-13,Lalitpur,Male,33,Books & Stationery,Academic Planner,2,650,eSewa,1300.0,Returning
+NP00386,2025-11-10,Kathmandu,Male,28,Home & Kitchen,Rice Cooker,2,3800,eSewa,7600.0,Returning
+NP00387,2025-05-04,Biratnagar,Female,21,Groceries,Cooking Oil 2L,1,650,eSewa,650.0,Returning
+NP00388,2025-10-21,Butwal,Male,49,Groceries,Cooking Oil 2L,1,650,eSewa,650.0,New
+NP00389,2025-10-13,Dharan,Male,23,Groceries,Basmati Rice 5kg,1,850,Debit Card,850.0,Returning
+NP00390,2025-08-22,Biratnagar,Male,21,Home & Kitchen,Storage Container Set,1,1600,Debit Card,1600.0,Returning
+NP00391,2025-07-06,Butwal,Male,60,Groceries,Wheat Flour 5kg,2,480,Cash,912.0,New
+NP00392,2025-02-24,Kathmandu,Female,49,Sports & Fitness,Football,1,1600,Cash,1600.0,Returning
+NP00393,2025-03-03,Birgunj,Male,30,Home & Kitchen,Electric Kettle,1,2200,Debit Card,2200.0,New
+NP00394,2025-08-23,Hetauda,Female,26,Groceries,Wheat Flour 5kg,1,480,Bank Transfer,456.0,New
+NP00395,2025-09-05,Dharan,Female,29,Home & Kitchen,Storage Container Set,3,1600,Khalti,4560.0,New
+NP00396,2025-06-14,Dharan,Female,44,Sports & Fitness,Running Shoes,1,5500,Bank Transfer,5500.0,Returning
+NP00397,2025-05-31,Butwal,Female,26,Home & Kitchen,Non-Stick Pan,1,1800,eSewa,1800.0,Returning
+NP00398,2025-06-10,Dharan,Female,30,Home & Kitchen,Non-Stick Pan,2,1800,Cash,3600.0,Returning
+NP00399,2025-04-02,Dharan,Female,58,Home & Kitchen,Rice Cooker,3,3800,eSewa,11400.0,New
+NP00400,2025-12-30,Birgunj,Female,52,Groceries,Lentils 1kg,2,180,eSewa,324.0,Returning
+NP00401,2025-01-28,Kathmandu,Male,28,Sports & Fitness,Sports Bag,1,2400,Bank Transfer,2400.0,Returning
+NP00402,2025-10-05,Kathmandu,Male,46,Electronics,Wireless Earbuds,2,2500,Cash,5000.0,Returning
+NP00403,2025-05-02,Dharan,Female,36,Home & Kitchen,Rice Cooker,2,3800,Khalti,7600.0,New
+NP00404,2025-06-10,Dharan,Male,34,Groceries,Lentils 1kg,5,180,Cash,810.0,Returning
+NP00405,2025-12-27,Biratnagar,Female,52,Sports & Fitness,Dumbbell Set,2,4200,Debit Card,7560.0,New
+NP00406,2025-12-16,Lalitpur,Male,29,Home & Kitchen,Rice Cooker,1,3800,Debit Card,3800.0,New
+NP00407,2025-10-27,Bharatpur,Male,47,Electronics,Bluetooth Speaker,1,3200,Debit Card,3200.0,New
+NP00408,2025-11-17,Hetauda,Female,37,Electronics,Bluetooth Speaker,1,3200,eSewa,3040.0,Returning
+NP00409,2025-09-24,Lalitpur,Female,28,Groceries,Tea 500g,2,420,eSewa,756.0,Returning
+NP00410,2025-06-19,Biratnagar,Male,57,Electronics,Smart Watch,2,7500,Khalti,15000.0,Returning
+NP00411,2025-05-04,Hetauda,Female,33,Sports & Fitness,Running Shoes,1,5500,Bank Transfer,5500.0,Returning
+NP00412,2025-05-25,Kathmandu,Female,41,Groceries,Basmati Rice 5kg,2,850,eSewa,1700.0,Returning
+NP00413,2025-09-21,Lalitpur,Female,28,Groceries,Tea 500g,4,420,Bank Transfer,1680.0,Returning
+NP00414,2025-04-20,Birgunj,Female,31,Beauty & Personal Care,Face Serum,1,1800,Khalti,1800.0,Returning
+NP00415,2025-12-18,Bhaktapur,Male,39,Books & Stationery,Art Supplies Set,2,1200,Cash,2160.0,New
+NP00416,2025-04-27,Bharatpur,Male,46,Clothing,Jeans,1,3500,Khalti,3500.0,Returning
+NP00417,2025-11-13,Lalitpur,Female,55,Electronics,Wireless Earbuds,1,2500,Cash,2500.0,Returning
+NP00418,2025-06-04,Hetauda,Male,46,Groceries,Wheat Flour 5kg,1,480,eSewa,456.0,Returning
+NP00419,2025-07-20,Dharan,Male,58,Electronics,Smart Watch,1,7500,Cash,7500.0,Returning
+NP00420,2025-10-12,Bhaktapur,Male,18,Books & Stationery,Academic Planner,5,650,Khalti,3250.0,Returning
+NP00421,2025-06-26,Pokhara,Male,59,Beauty & Personal Care,Face Serum,1,1800,Credit Card,1710.0,New
+NP00422,2025-04-03,Hetauda,Female,53,Clothing,Jacket,2,5500,eSewa,11000.0,Returning
+NP00423,2025-10-25,Butwal,Female,40,Clothing,Kurta Set,1,3200,Cash,3200.0,Returning
+NP00424,2025-09-06,Butwal,Male,60,Electronics,USB-C Charger,1,1400,eSewa,1400.0,Returning
+NP00425,2025-03-28,Kathmandu,Male,32,Beauty & Personal Care,Sunscreen,2,1100,Debit Card,1980.0,Returning
+NP00426,2025-09-03,Butwal,Male,37,Clothing,Jeans,1,3500,eSewa,3325.0,New
+NP00427,2025-03-13,Dharan,Male,58,Home & Kitchen,Electric Kettle,2,2200,Cash,4180.0,New
+NP00428,2025-10-24,Birgunj,Female,31,Electronics,USB-C Charger,1,1400,Bank Transfer,1330.0,Returning
+NP00429,2025-07-07,Birgunj,Male,55,Beauty & Personal Care,Body Lotion,1,850,Debit Card,807.5,New
+NP00430,2025-01-06,Pokhara,Female,57,Groceries,Wheat Flour 5kg,1,480,Khalti,480.0,Returning
+NP00431,2025-12-04,Bhaktapur,Female,48,Electronics,Smart Watch,1,7500,Bank Transfer,6750.0,New
+NP00432,2025-01-22,Pokhara,Male,41,Home & Kitchen,Rice Cooker,1,3800,eSewa,3800.0,Returning
+NP00433,2025-12-27,Dharan,Female,35,Books & Stationery,Notebook Set,5,450,Debit Card,2250.0,New
+NP00434,2025-10-28,Lalitpur,Male,42,Beauty & Personal Care,Shampoo,1,750,Bank Transfer,750.0,New
+NP00435,2025-11-06,Kathmandu,Male,26,Groceries,Tea 500g,2,420,eSewa,840.0,New
+NP00436,2025-07-05,Hetauda,Female,25,Beauty & Personal Care,Sunscreen,1,1100,Khalti,1100.0,Returning
+NP00437,2025-04-18,Hetauda,Male,44,Groceries,Basmati Rice 5kg,2,850,Cash,1700.0,New
+NP00438,2025-10-21,Bhaktapur,Male,34,Beauty & Personal Care,Shampoo,1,750,Bank Transfer,750.0,Returning
+NP00439,2025-12-05,Bharatpur,Female,31,Groceries,Wheat Flour 5kg,2,480,eSewa,912.0,Returning
+NP00440,2025-03-15,Hetauda,Female,29,Sports & Fitness,Yoga Mat,1,1800,Khalti,1800.0,Returning
+NP00441,2025-02-05,Pokhara,Male,26,Clothing,Jeans,3,3500,Cash,10500.0,New
+NP00442,2025-11-07,Lalitpur,Male,57,Sports & Fitness,Sports Bag,2,2400,Khalti,4560.0,Returning
+NP00443,2025-11-05,Dharan,Female,59,Beauty & Personal Care,Face Serum,1,1800,eSewa,1800.0,Returning
+NP00444,2025-09-04,Birgunj,Male,54,Books & Stationery,Reference Book,2,900,Cash,1620.0,New
+NP00445,2025-11-03,Dharan,Male,30,Groceries,Cooking Oil 2L,4,650,Cash,2600.0,Returning
+NP00446,2025-12-02,Pokhara,Female,38,Electronics,USB-C Charger,1,1400,eSewa,1400.0,New
+NP00447,2025-08-05,Hetauda,Male,35,Groceries,Wheat Flour 5kg,1,480,Bank Transfer,456.0,Returning
+NP00448,2025-07-09,Dharan,Female,34,Clothing,Jacket,2,5500,Bank Transfer,11000.0,Returning
+NP00449,2025-12-04,Lalitpur,Female,46,Sports & Fitness,Dumbbell Set,2,4200,Debit Card,7980.0,Returning
+NP00450,2025-10-09,Hetauda,Female,21,Electronics,USB-C Charger,1,1400,Cash,1400.0,Returning
+NP00451,2025-11-04,Birgunj,Male,34,Electronics,Wireless Earbuds,2,2500,Cash,5000.0,New
+NP00452,2025-12-02,Dharan,Male,56,Electronics,Power Bank,3,1800,Cash,5400.0,Returning
+NP00453,2025-12-03,Dharan,Male,20,Clothing,Cotton T-Shirt,1,1200,Debit Card,1200.0,Returning
+NP00454,2025-05-03,Kathmandu,Female,23,Home & Kitchen,Storage Container Set,1,1600,Bank Transfer,1600.0,Returning
+NP00455,2025-01-08,Lalitpur,Female,53,Groceries,Lentils 1kg,2,180,eSewa,360.0,Returning
+NP00456,2025-04-26,Hetauda,Female,47,Books & Stationery,Academic Planner,1,650,Bank Transfer,617.5,Returning
+NP00457,2025-09-15,Bharatpur,Male,25,Clothing,Cotton T-Shirt,1,1200,Debit Card,1200.0,Returning
+NP00458,2025-07-13,Hetauda,Male,33,Books & Stationery,Reference Book,1,900,Debit Card,900.0,Returning
+NP00459,2025-09-04,Lalitpur,Male,42,Groceries,Lentils 1kg,4,180,Khalti,684.0,Returning
+NP00460,2025-06-30,Dharan,Female,34,Home & Kitchen,Rice Cooker,2,3800,Cash,7600.0,New
+NP00461,2025-09-01,Biratnagar,Male,54,Home & Kitchen,Non-Stick Pan,1,1800,Cash,1620.0,Returning
+NP00462,2025-05-04,Bharatpur,Male,30,Home & Kitchen,Rice Cooker,1,3800,Debit Card,3800.0,Returning
+NP00463,2025-12-06,Butwal,Female,52,Groceries,Basmati Rice 5kg,1,850,Bank Transfer,850.0,Returning
+NP00464,2025-10-22,Bharatpur,Male,50,Groceries,Tea 500g,2,420,eSewa,756.0,New
+NP00465,2025-10-04,Kathmandu,Male,43,Beauty & Personal Care,Face Serum,1,1800,Credit Card,1800.0,Returning
+NP00466,2025-12-19,Kathmandu,Male,31,Groceries,Basmati Rice 5kg,3,850,eSewa,2550.0,New
+NP00467,2025-05-18,Butwal,Female,39,Groceries,Tea 500g,1,420,eSewa,420.0,Returning
+NP00468,2025-08-19,Bhaktapur,Female,54,Clothing,Jeans,1,3500,Khalti,3500.0,Returning
+NP00469,2025-04-11,Bhaktapur,Female,27,Home & Kitchen,Rice Cooker,1,3800,eSewa,3610.0,New
+NP00470,2025-09-22,Dharan,Female,49,Groceries,Cooking Oil 2L,5,650,eSewa,3087.5,Returning
+NP00471,2025-04-21,Bharatpur,Male,58,Beauty & Personal Care,Moisturizer,1,950,Cash,950.0,Returning
+NP00472,2025-05-12,Biratnagar,Male,25,Clothing,Jeans,1,3500,eSewa,3150.0,Returning
+NP00473,2025-03-31,Bharatpur,Male,50,Beauty & Personal Care,Body Lotion,1,850,eSewa,850.0,Returning
+NP00474,2025-03-16,Bhaktapur,Female,39,Books & Stationery,Art Supplies Set,2,1200,eSewa,2400.0,Returning
+NP00475,2025-06-10,Biratnagar,Female,35,Groceries,Basmati Rice 5kg,1,850,Khalti,850.0,Returning
+NP00476,2025-08-19,Birgunj,Male,19,Books & Stationery,Academic Planner,3,650,Cash,1950.0,New
+NP00477,2025-02-18,Lalitpur,Female,48,Clothing,Kurta Set,1,3200,Khalti,3200.0,New
+NP00478,2025-02-13,Birgunj,Male,33,Groceries,Basmati Rice 5kg,1,850,Debit Card,850.0,Returning
+NP00479,2025-12-06,Biratnagar,Female,38,Electronics,USB-C Charger,2,1400,Credit Card,2800.0,Returning
+NP00480,2025-12-24,Dharan,Male,56,Books & Stationery,Academic Planner,2,650,eSewa,1300.0,Returning
+NP00481,2025-06-08,Biratnagar,Male,32,Books & Stationery,Art Supplies Set,2,1200,Debit Card,2400.0,Returning
+NP00482,2025-09-25,Bhaktapur,Male,48,Groceries,Tea 500g,1,420,Khalti,420.0,Returning
+NP00483,2025-05-30,Hetauda,Male,18,Groceries,Lentils 1kg,1,180,Khalti,171.0,New
+NP00484,2025-11-27,Birgunj,Female,32,Books & Stationery,Art Supplies Set,2,1200,Cash,2400.0,Returning
+NP00485,2025-05-26,Dharan,Female,44,Clothing,Jacket,2,5500,Cash,11000.0,New
+NP00486,2025-05-20,Hetauda,Male,38,Electronics,Wireless Earbuds,1,2500,Cash,2500.0,New
+NP00487,2025-03-06,Butwal,Female,32,Beauty & Personal Care,Shampoo,3,750,Cash,2250.0,New
+NP00488,2025-07-10,Butwal,Female,20,Clothing,Cotton T-Shirt,1,1200,eSewa,1140.0,Returning
+NP00489,2025-10-06,Butwal,Male,34,Books & Stationery,Notebook Set,1,450,Debit Card,450.0,Returning
+NP00490,2025-05-07,Kathmandu,Male,24,Electronics,Smart Watch,1,7500,Khalti,6750.0,Returning
+NP00491,2025-01-22,Dharan,Male,34,Groceries,Tea 500g,4,420,eSewa,1680.0,New
+NP00492,2025-02-27,Pokhara,Female,38,Groceries,Basmati Rice 5kg,4,850,Cash,3400.0,Returning
+NP00493,2025-01-22,Hetauda,Female,48,Beauty & Personal Care,Moisturizer,2,950,Khalti,1900.0,New
+NP00494,2025-11-13,Biratnagar,Female,58,Sports & Fitness,Yoga Mat,1,1800,Cash,1800.0,New
+NP00495,2025-04-30,Biratnagar,Female,59,Electronics,USB-C Charger,2,1400,Debit Card,2800.0,Returning
+NP00496,2025-03-10,Bharatpur,Female,49,Groceries,Cooking Oil 2L,1,650,Debit Card,650.0,Returning
+NP00497,2025-06-28,Biratnagar,Female,35,Beauty & Personal Care,Moisturizer,1,950,Credit Card,950.0,Returning
+NP00498,2025-06-01,Bharatpur,Female,47,Sports & Fitness,Yoga Mat,1,1800,Cash,1800.0,Returning
+NP00499,2025-07-06,Hetauda,Male,22,Groceries,Cooking Oil 2L,4,650,Khalti,2600.0,Returning
+NP00500,2025-03-20,Hetauda,Male,44,Groceries,Wheat Flour 5kg,3,480,Khalti,1368.0,New
