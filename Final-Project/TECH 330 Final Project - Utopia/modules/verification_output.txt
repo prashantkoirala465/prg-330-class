@@ -1,0 +1,7 @@
+VERIFICATION_OK
+{'raw_rows': 1078, 'exact_duplicate_rows': 14, 'repeated_product_links': 27, 'cleaned_rows': 1051, 'cleaned_columns': 11, 'original_price_below_current': 0, 'missing_values': {'Title': 0, 'Rating in Stars': 11, 'Rating Count': 0, 'Sold Count': 31, 'Delivery': 0, 'Current Price': 0, 'Original Price': 65, 'Category': 0, 'Has Voucher': 0, 'Discount': 65, 'Discount %': 65}, 'output_path': 'verify_cleaned.csv'}
+{'cheapest_price': 60.0, 'most_expensive_price': 9999.0, 'mean_price': 705.6803044719315, 'median_price': 525.0, 'available_sold_count_sum': 1117548, 'products_with_no_customer_rating': 11}
+{'available_sold_records': 1020, 'q1': 186.0, 'median': 443.5, 'q3': 1000.0, 'iqr': 814.0, 'records_above_threshold': 97, 'numpy_rating_count_vs_sold_corr': 0.9639932077230385}
+{'raw_rows': 1078, 'unique_product_rows': 1051, 'median_price': 525.0, 'mean_price': 705.6803044719315, 'highest_median_price_category': 'Womens Bags', 'highest_median_price': 899.0, 'highest_median_sold_category': 'Mens Bags', 'highest_median_sold': 662.5, 'lowest_median_sold_category': 'Kids Watches', 'lowest_median_sold': 135.0, 'price_sold_correlation': -0.0005666952335210271, 'rating_sold_correlation': 0.09508173578459882, 'rating_count_sold_correlation': 0.9639932077230403, 'discount_sold_correlation': 0.028215814426387938}
+
+STDERR:

@@ -1,11 +1,10 @@
-# Daraz Final Project — Professor-Requested Modular Structure
+# Daraz Final Project
 
-This package follows the requested structure:
 
 - **One main notebook:** `final_project.ipynb`
 - **Separate `.py` modules** for course concepts and analysis
 - The notebook visibly creates each module with `%%writefile`, then imports and uses it
-- **Only the real Daraz datasource is used**. There is no synthetic/sample dataset anywhere.
+- **Only the real Daraz datasource is used**.
 
 ## Files
 
